@@ -1,0 +1,37 @@
+.signup-bg{
+
+    background-image: url('https://img.freepik.com/free-photo/sign-up-form-button-graphic-concept_53876-101286.jpg?w=900&t=st=1693117788~exp=1693118388~hmac=a278da7d4393304bc72e73d65b29451fabc29ab0abcc33c2448013f3b4139776');
+
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.signup_profile_container{
+
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.signup-profile-pic{
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid grey;
+    object-fit: cover;
+    height: 100px;
+}
+
+.icon{
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+    color: green;
+    background-color: rgb(233, 233, 233);
+    cursor: pointer;
+    z-index: 99;
+}
+

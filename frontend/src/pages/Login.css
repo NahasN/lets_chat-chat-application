@@ -1,0 +1,11 @@
+.login-bg{
+
+    background-image: url('https://img.freepik.com/free-photo/diverse-people-using-their-phones_53876-95104.jpg?w=1060&t=st=1693114869~exp=1693115469~hmac=97f0d881bca49e221e960c45e50018e433e561f6df42f46d96e9310a3107a4b8');
+
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+
+}
