@@ -30,7 +30,7 @@ function Navigation() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
             <LinkContainer to="/">
-              <h3>Chat App</h3>
+              <h3>Let's Chat</h3>
             </LinkContainer>
           </Nav>
 
